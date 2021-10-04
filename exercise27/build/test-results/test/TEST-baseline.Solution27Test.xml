@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="baseline.Solution27Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-04T06:36:49" hostname="DESKTOP-A04760B" time="0.079">
+  <properties/>
+  <testcase name="validateInput()" classname="baseline.Solution27Test" time="0.079"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
